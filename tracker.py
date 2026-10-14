@@ -9,7 +9,7 @@ import requests
 
 TARGET_URL = "https://cloud.colocrossing.com/index.php?rp=%2Fstore%2Fspecials&language=chinese"
 BASE_URL = "https://cloud.colocrossing.com"
-MIN_ANNUAL_PRICE = 8.00
+MIN_ANNUAL_PRICE = 5.00
 MAX_ANNUAL_PRICE = 15.00
 CSV_FILE = "stock_history.csv"
 README_FILE = "README.md"
