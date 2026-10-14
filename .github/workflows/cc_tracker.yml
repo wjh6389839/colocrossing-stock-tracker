@@ -1,0 +1,40 @@
+name: ColoCrossing Stock Tracker
+
+on:
+  schedule:
+    # 每天 UTC 时间 02:00 运行 = 北京时间每天上午 10:00
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+permissions:
+  contents: write
+
+jobs:
+  track-colocrossing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 2. 安装 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 3. 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests curl_cffi beautifulsoup4
+
+      - name: 4. 检查库存并推送提醒
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        run: |
+          python tracker.py
+
+      - name: 5. 提交库存记录与看板
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update ColoCrossing stock record [skip ci]" && git pull --rebase && git push)
