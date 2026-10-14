@@ -3,7 +3,7 @@ name: ColoCrossing Stock Tracker
 on:
   schedule:
     # 对应北京时间每天 00:00(24:00), 04:00, 08:00, 12:00, 16:00, 20:00 各运行一次
-    - cron: '0 0,4,8,12,16,20 * * *'
+    - cron: '4 0,4,8,12,16,20 * * *'
   workflow_dispatch:
 
 permissions:
