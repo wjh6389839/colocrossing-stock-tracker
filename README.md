@@ -1,6 +1,6 @@
 # 🖥️ ColoCrossing 特惠 VPS (< $15/年) 库存监控
 
-- **最后检查时间（北京时间）**：`2026-11-27 08:30:13`
+- **最后检查时间（北京时间）**：`2026-11-27 21:43:50`
 - **监控目标**：[ColoCrossing 特别优惠页](https://cloud.colocrossing.com/index.php?rp=%2Fstore%2Fspecials&language=chinese)（年付 < `$15.00 USD`）
 
 ## 📊 今日最新状态
@@ -23,7 +23,7 @@
 | Singles Day 1GB RAM Special VPSXXS | **$11.11/年** | 🔴 缺货 (Out of Stock) | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/singles-day-1gb-ram-special-vpsxxs) |
 | Singles Day 1GB RAM Special ZP | **$11.11/年** | 🔴 缺货 (Out of Stock) | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/singles-day-1gb-ram-special-zp) |
 | Black Friday 1GB RAM VPS (2025) | **$11.99/年** | 🔴 缺货 (Out of Stock) | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/black-friday-1gb-ram-vps-2025) |
-| Black Friday Megathread 1GB RAM VPS 2026 | **$14.22/年** | 🔴 缺货 (Out of Stock) | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/black-friday-megathread-1gb-ram-vps-2026) |
+| Black Friday Megathread 1GB RAM VPS 2026 | **$14.22/年** | 🟢 **有货 (可购买)** | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/black-friday-megathread-1gb-ram-vps-2026) |
 | Black Friday 8GB RAM VPS (2025) | **$9.99/年** | 🔴 缺货 (Out of Stock) | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/black-friday-8gb-ram-vps-2025) |
 | Black Friday 12GB RAM VPS (2025) | **$12.99/年** | 🔴 缺货 (Out of Stock) | [点击直达](https://cloud.colocrossing.com/index.php?rp=/store/specials/black-friday-12gb-ram-vps-2025) |
 
@@ -31,23 +31,23 @@
 
 | 检查时间 (北京时间) | 套餐名称 | 年付价格 | 库存状态 |
 | :--- | :--- | :--- | :--- |
+| `2026-11-27 21:43:50` | Black Friday 12GB RAM VPS (2025) | $12.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Black Friday 8GB RAM VPS (2025) | $9.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Black Friday Megathread 1GB RAM VPS 2026 | $14.22/年 | 🟢 有货 |
+| `2026-11-27 21:43:50` | Black Friday 1GB RAM VPS (2025) | $11.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Singles Day 1GB RAM Special ZP | $11.11/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Singles Day 1GB RAM Special VPSXXS | $11.11/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Singles Day 1GB RAM Special VPSJYZ30 | $11.11/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Special 1GB RAM VPSXXS | $10.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | LEB/LET 1GB RAM Special | $10.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Special 1GB RAM VPSJYZ30 | $10.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Singles Day 1GB RAM Special | $11.11/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | VPSXXS 1GB RAM Special | $11.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | Fall 1GB RAM Special | $11.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | 1GB RAM Summer Special | $11.00/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | VPSJYZ 1GB RAM Special | $11.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | ZP 1GB RAM Special | $11.99/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | 4GB RAM Fall Special (2025) | $13.95/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | 4GB RAM Spring Special (2025) | $13.95/年 | 🔴 缺货 |
+| `2026-11-27 21:43:50` | 1GB Valentines KVM VPS | $12.00/年 | 🔴 缺货 |
 | `2026-11-27 08:30:13` | Black Friday 12GB RAM VPS (2025) | $12.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Black Friday 8GB RAM VPS (2025) | $9.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Black Friday Megathread 1GB RAM VPS 2026 | $14.22/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Black Friday 1GB RAM VPS (2025) | $11.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Singles Day 1GB RAM Special ZP | $11.11/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Singles Day 1GB RAM Special VPSXXS | $11.11/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Singles Day 1GB RAM Special VPSJYZ30 | $11.11/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Special 1GB RAM VPSXXS | $10.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | LEB/LET 1GB RAM Special | $10.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Special 1GB RAM VPSJYZ30 | $10.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Singles Day 1GB RAM Special | $11.11/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | VPSXXS 1GB RAM Special | $11.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | Fall 1GB RAM Special | $11.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | 1GB RAM Summer Special | $11.00/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | VPSJYZ 1GB RAM Special | $11.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | ZP 1GB RAM Special | $11.99/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | 4GB RAM Fall Special (2025) | $13.95/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | 4GB RAM Spring Special (2025) | $13.95/年 | 🔴 缺货 |
-| `2026-11-27 08:30:13` | 1GB Valentines KVM VPS | $12.00/年 | 🔴 缺货 |
-| `2026-11-26 21:47:17` | Black Friday 12GB RAM VPS (2025) | $12.99/年 | 🔴 缺货 |
